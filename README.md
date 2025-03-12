@@ -1,8 +1,8 @@
 ## Olá sou lucas 👋
 
-- 🎓 Técnico em Mecatrônica - SENAI "Mariano Ferraz"
+- 🎓 Formado em Mecatrônica - SENAI "Mariano Ferraz"
 - 📚 Estudante de Desenvolvimento de Sistemas - ETEC Paulistano
-- 📚 Futuro Desenvolvedor Front-end
+- 👩🏻‍💻 Futuro Desenvolvedor Front-end
 - 💭 Pensando em virar full-stack
 - 📫 Contate-me pelo email: LucasDosSantana11012003@gmail.com
 - 😄 Pronomes: ele/dele
