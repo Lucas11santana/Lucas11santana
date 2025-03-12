@@ -5,6 +5,7 @@
 - 💭 Pensando em virar full-stack
 - 📫 Contate-me pelo email: LucasDosSantana11012003@gmail.com
 - 😄 Pronomes: ele/dele
+- 😤 Técnico em Mecatrônica - SENAI "Mariano Ferraz"
 - ⚡ Estudante de Desenvolvimento de Sistemas - ETEC Paulistano
   
 <div style="display: inline_block"><br>
