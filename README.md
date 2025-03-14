@@ -4,8 +4,16 @@
 - 📚 Estudante de Desenvolvimento de Sistemas - ETEC Paulistano
 - 👩🏻‍💻 Futuro Desenvolvedor Front-end
 - 💭 Pensando em virar full-stack
-- 📫 Contate-me pelo email: LucasDosSantana11012003@gmail.com
 - 😄 Pronomes: ele/dele
+- 📫 Contate-me: LucasDosSantana11012003@gmail.com
+
+<div>
+ <a href="https://wa.me/5511956289443" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/lucas-santana-718188187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:LucasDosSantana11012003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.instagram.com/lucas11santana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
 
   
 <div style="display: inline_block"><br>
@@ -22,18 +30,7 @@
 
 ##
 
-<div>
-  Linguagens e Tecnologias
-
-  
- <a href="https://wa.me/5511956289443" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/lucas-santana-718188187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:LucasDosSantana11012003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://www.instagram.com/lucas11santana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
 
 ##
 
 <img align="center" alt="Sql" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-
