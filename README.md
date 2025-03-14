@@ -20,28 +20,8 @@
 
 ---
 
-### 💻 Linguagens e Tecnologias
+<h3 align="left">💻 Linguagens e Tecnologias</h3>
 
-
-<div style="display: inline-block;">
-  <img align="center" alt="HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="BootsStrap" height="78" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="Figma" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- &nbsp;&nbsp;
-  <img align="center" alt="Sql" height="110" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-</div>
 
 
 
