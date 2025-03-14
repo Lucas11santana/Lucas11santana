@@ -38,4 +38,13 @@
 ##
 
 
+<div style="display: flex; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas11santana&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas11santana&layout=compact&theme=dark"/>
+</div>
+
+
+
+##
+
 <img align="center" alt="Sql" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
