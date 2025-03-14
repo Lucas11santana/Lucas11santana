@@ -1,4 +1,6 @@
-## Olá sou lucas 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3363F7&center=true&vCenter=true&width=510&height=90&lines=Ol%C3%A1+sou+Lucas!!" alt="Typing SVG" /></a>
+
+---
 
 - 🎓 Formado em Mecatrônica - SENAI "Mariano Ferraz"
 - 📚 Estudante de Desenvolvimento de Sistemas - ETEC Paulistano
@@ -16,7 +18,7 @@
  <a href="https://www.instagram.com/lucas11santana/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-##
+---
 
 ### 💻 Linguagens e Tecnologias
 
