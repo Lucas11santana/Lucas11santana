@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3363F7&center=true&vCenter=true&width=510&height=90&lines=Ol%C3%A1+sou+Lucas!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=3363F7&width=510&height=90&lines=Seja+bem-vindo%2C+me+chamo+Lucas!!!" alt="Typing SVG" /></a>
 
 ---
 
