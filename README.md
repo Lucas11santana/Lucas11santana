@@ -22,7 +22,17 @@
 
 <h3 align="left">💻 Linguagens e Tecnologias</h3>
 
-
+<div align="left">
+  <img src="src/html5-original.svg" height="25" alt="html5 logo"/><img width="12"/>
+  <img src="src/css3-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/javascript-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/bootstrap-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/figma-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/csharp-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/python-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/react-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+  <img src="src/mysql-original.svg" height="25" alt="css3 logo"/><img width="12"/>
+</div>
 
 
 ##
