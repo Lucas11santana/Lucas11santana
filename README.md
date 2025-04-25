@@ -28,7 +28,6 @@
   <img src="src/javascript-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/bootstrap-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/figma-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="src/csharp-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/php.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/react-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
