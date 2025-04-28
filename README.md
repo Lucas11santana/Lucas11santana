@@ -4,6 +4,7 @@
 
 - 🎓 Formado em Mecatrônica - SENAI "Mariano Ferraz"
 - 📚 Estudante de Desenvolvimento de Sistemas - ETEC Paulistano
+- 📖 Estudando PhP e Python.
 - 👩🏻‍💻 Futuro Desenvolvedor Front-end
 - 💭 Pensando em virar full-stack
 - 😄 Pronomes: ele/dele
