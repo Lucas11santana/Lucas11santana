@@ -30,6 +30,7 @@
   <img src="src/bootstrap-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/figma-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/php.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
+  <img src="src/python-original.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/react-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/mysql-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
