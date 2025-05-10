@@ -24,7 +24,7 @@
 <h3 align="left">💻 Stack:</h3>
 
 <div align="left">
-  <img src="src/html5-original.svg" height="30" alt="html5 logo"/>&nbsp;&nbsp;
+  <img src="src/html.png" height="30" alt="html5 logo"/>&nbsp;&nbsp;
   <img src="src/css3-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/javascript.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/bootstrap-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
