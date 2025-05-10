@@ -26,7 +26,7 @@
 <div align="left">
   <img src="src/html5-original.svg" height="30" alt="html5 logo"/>&nbsp;&nbsp;
   <img src="src/css3-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="src/javascript-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
+  <img src="src/javascript.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/bootstrap-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/figma-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/php.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
