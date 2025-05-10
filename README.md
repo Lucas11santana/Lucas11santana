@@ -33,7 +33,7 @@
   <img src="src/python-original.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/react-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="src/" height="30" alt="css3 logo"/>&nbsp;&nbsp;
+  <img src="src/mysql.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
 </div>
 
 
