@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">💻 Linguagens e Tecnologias</h3>
+<h3 align="left">💻 Stack:</h3>
 
 <div align="left">
   <img src="src/html5-original.svg" height="30" alt="html5 logo"/>&nbsp;&nbsp;
@@ -33,7 +33,7 @@
   <img src="src/python-original.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="src/react-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="src/mysql-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
+  <img src="src/" height="30" alt="css3 logo"/>&nbsp;&nbsp;
 </div>
 
 
