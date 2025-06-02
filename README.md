@@ -32,7 +32,7 @@
   <img src="./src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/nextjs-icon (1).svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/react.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/mysql.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
+  <img src="./src/mysql.svg" height="60" alt="css3 logo"/>&nbsp;&nbsp;
 </div>
 
 
