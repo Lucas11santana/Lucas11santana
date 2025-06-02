@@ -27,8 +27,6 @@
   <img src="./src/html.png" height="30" alt="html5 logo"/>&nbsp;&nbsp;
   <img src="./src/css3-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/javascript.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/bootstrap-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/figma-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/php.png" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/python-original.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
   <img src="./src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
