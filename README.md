@@ -22,18 +22,17 @@
 ---
 
 <h3 align="left">💻 My Stack:</h3>
- 
-<div align="left">
-  <img src="./src/html.png" height="30" alt="html5 logo"/>&nbsp;&nbsp;
-  <img src="./src/css3-original.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/javascript.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/php.png" height="35" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/python-original.svg" height="35" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/nextjs-icon (1).svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/react.png" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-  <img src="./src/mysql.svg" height="30" alt="css3 logo"/>&nbsp;&nbsp;
-</div>
+
+| Categoria       | Tecnologias                                                                                                                                                    |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Front-end       | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) |
+| Back-end        | ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| Frameworks      | ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge) ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge) ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge) |
+| Banco de Dados  | ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)                                                          |
+| Design          | ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge) ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge) |
+| Ferramentas     | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+
 
 
 ##
