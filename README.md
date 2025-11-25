@@ -7,7 +7,6 @@
 - 📖 Estudando PhP e Python.
 - 👩🏻‍💻 Futuro Desenvolvedor Front-end
 - 💭 Pensando em virar full-stack
-- 😄 Pronomes: ele/dele
 - 📫 Contate-me: lucasdosantos1115@gmail.com
 
 ##
