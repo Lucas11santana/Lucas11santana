@@ -2,8 +2,8 @@
 
 ---
 
-- 🎓 Formado Desenvolvimento de Sistemas - ETEC Paulistano
-- 🎓 Formado em Mecatrônica - SENAI "Mariano Ferraz"
+- 💻 Técnico em Desenvolvimento de Sistemas - ETEC Paulistano
+- 🤖 Técnico em Mecatrônica - SENAI "Mariano Ferraz"
 - 📖 Estudando PhP e Python.
 - 👩🏻‍💻 Futuro Desenvolvedor Front-end
 - 💭 Pensando em virar full-stack
