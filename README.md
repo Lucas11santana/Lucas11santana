@@ -4,9 +4,8 @@
 
 - 💻 Técnico em Desenvolvimento de Sistemas - ETEC Paulistano
 - 🤖 Técnico em Mecatrônica - SENAI "Mariano Ferraz"
-- 📖 Estudando PhP e Python.
-- 👩🏻‍💻 Futuro Desenvolvedor Front-end
-- 💭 Pensando em virar full-stack
+- 📖 Estudando Python.
+- 👩🏻‍💻 Futuro Desenvolvedor Full-Stack
 - 📫 Contate-me: lucasdosantos1115@gmail.com
 
 ##
